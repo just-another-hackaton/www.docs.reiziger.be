@@ -7,36 +7,37 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     sidebar: [
-      { text: 'Project informatie', link: '/guide/wat-is-reiziger' },
-      { text: 'Installatie', link: '/guide/installatie' },
-      { text: 'Configuratie', link: '/guide/configuratie' },
+      { text: 'Project informatie', link: 'docs/guide/wat-is-reiziger' },
+      { text: 'Installatie', link: 'docs//guide/installatie' },
+      { text: 'Configuratie', link: 'docs//guide/configuratie' },
       {
-        text: 'Accountbeheer', 
-        collapsed: true, 
+        text: 'Accountbeheer',
+        collapsed: true,
         items: [
-          { text: 'Profielbeheer', link: 'account/profielbeheer' },
-          { text: 'Browser sessies', link: 'account/browser-sessies' },
-          { text: '2FA authenticatie', link: 'account/two-factor-authenticatie' },
+          { text: 'Profielbeheer', link: 'docs/account/profielbeheer' },
+          { text: 'Beveiligings logboek', link: 'docs/account/beveiligingslogboek' },
+          { text: 'Browser sessies', link: 'docs/account/browser-sessies' },
+          { text: '2FA authenticatie', link: 'docs/account/two-factor-authenticatie' },
         ]
       },
       {
         text: 'Gebruikersbeheer',
         collapsed: true,
         items: [
-          { text: 'Gebruikers', link: '/gebruikersbeheer/gebruikers' },
-          { text: 'Permissies', link: '/gebruikersbeheer/permissiebeheer' },
+          { text: 'Gebruikers', link: 'docs/gebruikersbeheer/gebruikers' },
+          { text: 'Permissies', link: 'docs//gebruikersbeheer/permissiebeheer' },
         ]
-      }, 
+      },
       {
-        text: 'Verhuringsportaal', 
-        collapsed: true, 
+        text: 'Verhuringsportaal',
+        collapsed: true,
         items: [
-          { text: 'Huurders', link: 'verhuringen/huurders'}, 
-          { text: 'Verhuringen', link: 'verhuringen' },
+          { text: 'Huurders', link: 'docs/verhuringen' },
+          { text: 'Verhuringen', link: 'docs/verhuringen/index' },
         ],
       },
-      { text: 'Activiteitenlogboek', link: 'activiteitenlogboek' },
-      { text: 'Facturatie', link: 'facturatie' }
+      { text: 'Activiteitenlogboek', link: 'docs/activiteitenlogboek' },
+      { text: 'Facturatie', link: 'docs/facturatie' }
     ],
 
     socialLinks: [
