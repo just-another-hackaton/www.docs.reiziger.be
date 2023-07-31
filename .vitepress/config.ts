@@ -6,6 +6,10 @@ export default defineConfig({
   description: "Documentatie omtrent het beheer en gebruik van reiziger het verhuursportaal voor jeugdbewegingen",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    editLink: {
+      pattern: 'https://github.com/just-another-hackaton/www.docs.reiziger.be/edit/main/:path',
+      text: 'Edit this page on GitHub'
+    },
     sidebar: [
       { text: 'Project informatie', link: 'docs/guide/wat-is-reiziger' },
       { text: 'Installatie', link: 'docs//guide/installatie' },

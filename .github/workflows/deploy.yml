@@ -1,0 +1,9 @@
+# ---
+# Workflow for building and deploying the dcumentation site to GitHUb Pages
+# ---
+name: Deploy documentation site to Pages
+
+on:
+  # Runs on pushes targeting the `main` branch.
+  push:
+    branches: [main]

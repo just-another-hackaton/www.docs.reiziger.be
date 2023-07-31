@@ -1,4 +1,8 @@
-# Beiligings logboek van een account
+---
+editLink: true
+---
+
+# Beveiligings logboek van een account
 
 ::: danger
 Documentatie van deze feature word uitgeschreven als referentie voor de feature. Maar kan hierdoor op elk moment van de ontwikkeling nog worden gewijzigd.
