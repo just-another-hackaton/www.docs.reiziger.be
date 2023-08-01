@@ -5,12 +5,20 @@ export default defineConfig({
   base: '/www.docs.reiziger.be/',
   title: "Reiziger documentatie",
   description: "Documentatie omtrent het beheer en gebruik van reiziger het verhuursportaal voor jeugdbewegingen",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     editLink: {
       pattern: 'https://github.com/just-another-hackaton/www.docs.reiziger.be/edit/main/:path',
       text: 'Edit this page on GitHub'
     },
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2019-present Evan You'
+    },
+    nav: [
+      { text: 'Changelog', link: '' },
+    ],
     sidebar: [
       { text: 'Project informatie', link: 'docs/guide/wat-is-reiziger' },
       { text: 'Installatie', link: 'docs//guide/installatie' },
