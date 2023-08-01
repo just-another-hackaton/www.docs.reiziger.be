@@ -1,1 +1,0 @@
-import{_ as e,o as n,c as t}from"./chunks/framework.76a6d676.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/verhuringen/index.md","filePath":"docs/verhuringen/index.md"}'),r={name:"docs/verhuringen/index.md"};function a(o,s,c,d,i,p){return n(),t("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};

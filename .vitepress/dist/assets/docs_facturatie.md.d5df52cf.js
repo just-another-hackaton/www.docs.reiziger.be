@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a}from"./chunks/framework.76a6d676.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/facturatie.md","filePath":"docs/facturatie.md"}'),c={name:"docs/facturatie.md"};function r(o,s,n,i,d,f){return e(),a("div")}const m=t(c,[["render",r]]);export{_ as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.76a6d676.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/guide/configuratie.md","filePath":"docs/guide/configuratie.md"}'),o={name:"docs/guide/configuratie.md"};function c(r,i,n,s,d,f){return t(),a("div")}const _=e(o,[["render",c]]);export{u as __pageData,_ as default};
