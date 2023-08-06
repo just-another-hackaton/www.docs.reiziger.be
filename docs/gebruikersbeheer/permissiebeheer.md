@@ -24,11 +24,11 @@ Hieronder vind u een oplijsting van de permissies die betrekking hebben tot het 
 | :----------------- | :-------------------------------------------------------------------------- |
 | `users.viewAny`    | De gebruiker mag het overzicht van de gebruikers in de applicatie bekijken. |
 | `users.write`      | De gebruiker mag nioeuwe accounts voor personen aanmaken in de applicatie.  |
-| `users.deactivate` | De gebruiker 
-| `users.activate`   | 
-| `users.update`     |
-| `users.view`       |
-| `users.delete`     |
+| `users.deactivate` | De gebruiker mag gebruikers deactiveren in de applicatie.                   |
+| `users.activate`   | De gebruiker mag gedeactiveerde gebruiker activeren in de applicatie.       |
+| `users.update`     | De gebruiker mag gegevens aanpassen van een andere gebruiker.               |
+| `users.view`       | De gebruiker mag de gegevens van een andere persoon bekijken.               |
+| `users.delete`     | De gebruiker kan logins van andere personen verwijderen.                    |
 
 ## Huurders permissies
 
