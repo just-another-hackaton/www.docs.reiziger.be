@@ -40,6 +40,13 @@ export default defineConfig({
           { text: 'Verhuringen', link: 'docs/verhuringen/index' },
         ],
       },
+      {
+        text: 'Technische documentatie', 
+        collapsed: true, 
+        items: [ 
+          { text: 'Unit testing', link: 'docs/technical/unit-testing.md' }
+        ]
+      }, 
       { text: 'Activiteitenlogboek', link: 'docs/activiteitenlogboek' },
       { text: 'Facturatie', link: 'docs/facturatie' }
     ],
