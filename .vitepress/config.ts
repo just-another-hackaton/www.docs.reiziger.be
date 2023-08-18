@@ -50,6 +50,13 @@ export default defineConfig({
           { text: 'Verhuringen', link: 'docs/verhuringen/index' },
         ],
       },
+      {
+        text: 'Technische documentatie', 
+        collapsed: true, 
+        items: [
+          { text: 'Caching', link: 'docs/technical/caching'}
+        ],
+      }, 
       { text: 'Activiteitenlogboek', link: 'docs/activiteitenlogboek' },
       { text: 'Facturatie', link: 'docs/facturatie' }
     ],
