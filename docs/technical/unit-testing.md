@@ -35,4 +35,7 @@ Even verderop in de documentatie vind je een overzicht van alle geimplementeerde
 
 ## Testing groupen
 
-(todo)
+Om de grote testsuite van reiziger een beetje te breken en niet alle tests te laten lopen bij het werken aan een feature hebben we de tests onder verdeeld in groepen. 
+Zo heeft elke feature zijn eigen testing group. Hieronder vind je een overzicht van de testing groups. 
+
+- 
