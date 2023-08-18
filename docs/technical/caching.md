@@ -39,7 +39,9 @@ Om het vervolgens weer te geven in de pagina.
 Het invalideren van cache items gebeurd wanneer de gedefinieerde time to live van de key is verstreken. Daarbij word het item verwijderd en automatisch hernieuwd. 
 Bij verwijdering van een databank entiteit zal de cache key van de entiteit worden verwijderd en de cache key van het overzicht. 
 Net zoals bij het wijzigen van een entiteit. 
-Indien er een entiteit word aangemaakt zal alleen de overzichts cache worden verwijderd
+Indien er een entiteit word aangemaakt zal alleen de overzichts cache worden verwijderd. 
+
+Deze handelingen zullen plaatsvinden in [Observers](https://laravel.com/docs/10.x/eloquent#observers) die worden gedefinieerd in de models.  
 
 ## Naming conventies
 
