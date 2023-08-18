@@ -36,9 +36,10 @@ Om het vervolgens weer te geven in de pagina.
 
 ### Invalideren van de cache items
 
-::: warning
-Uitschrijven van de documentatie is nog benodigd
-:::
+Het invalideren van cache items gebeurd wanneer de gedefinieerde time to live van de key is verstreken. Daarbij word het item verwijderd en automatisch hernieuwd. 
+Bij verwijdering van een databank entiteit zal de cache key van de entiteit worden verwijderd en de cache key van het overzicht. 
+Net zoals bij het wijzigen van een entiteit. 
+Indien er een entiteit word aangemaakt zal alleen de overzichts cache worden verwijderd
 
 ## Naming conventies
 
