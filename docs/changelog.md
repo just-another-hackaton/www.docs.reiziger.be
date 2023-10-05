@@ -22,6 +22,7 @@ en volgt als standaard [Semantic Versioning](https://semver.org/spec/v2.0.0.html
 ### Probleem oplossingen
 
 - **Opgelost:** Add missing `strict_types` declarations to enhance code readability. ([#506](https://github.com/just-another-hackaton/Reiziger/pull/506))
+- **Opgelost:** Fixed broken link in the footer to the docs website.
 
 
 

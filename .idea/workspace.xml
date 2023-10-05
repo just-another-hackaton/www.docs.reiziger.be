@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b78a02f-c782-4441-9b15-e33a43d6e4a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/changelog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vitepress/cache/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.vitepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +127,7 @@
       <workItem from="1690412780022" duration="1069000" />
       <workItem from="1690413979225" duration="1343000" />
       <workItem from="1696475987345" duration="85000" />
-      <workItem from="1696476095349" duration="1802000" />
+      <workItem from="1696476095349" duration="2113000" />
     </task>
     <servers />
   </component>
