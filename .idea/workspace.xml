@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b78a02f-c782-4441-9b15-e33a43d6e4a3" name="Changes" comment="" />
+    <list default="true" id="1b78a02f-c782-4441-9b15-e33a43d6e4a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/changelog.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +90,9 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2Sz0U9Dw66t1eY85ElR32WJ1XtO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -96,12 +102,15 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "changelog",
     "last_opened_file_path": "/Users/timjoosten/Documents/campfire/docs-template",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/timjoosten/Library/Application Support/JetBrains/Toolbox/apps/PhpStorm/ch-0/232.9921.55/PhpStorm 2023.2 EAP.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,6 +126,8 @@
       <workItem from="1690410262260" duration="951000" />
       <workItem from="1690412780022" duration="1069000" />
       <workItem from="1690413979225" duration="1343000" />
+      <workItem from="1696475987345" duration="85000" />
+      <workItem from="1696476095349" duration="2113000" />
     </task>
     <servers />
   </component>

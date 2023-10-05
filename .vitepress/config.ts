@@ -17,7 +17,7 @@ export default defineConfig({
       copyright: 'Copyright © 2019-present Evan You'
     },
     nav: [
-      { text: 'Changelog', link: '' },
+      { text: 'Changelog', link: 'docs/changelog' },
       { text: 'Contributing', link: '' }
     ],
     sidebar: [
