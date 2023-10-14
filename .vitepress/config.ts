@@ -18,7 +18,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Changelog', link: '' },
-      { text: 'Contributing', link: '' }
+      { text: 'Contributing', link: 'docs/contributing' }
     ],
     sidebar: [
       { text: 'Project informatie', link: 'docs/guide/wat-is-reiziger' },
